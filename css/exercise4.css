@@ -1,24 +1,38 @@
-h1{
-    display:flex;
-    background-color: rgb(33, 211, 113);
-    font-size:30px;
-    font-family: Arial, Helvetica, sans-serif;
-    flex-wrap:wrap;
+.header {
+    padding: 100px;
     text-align: center;
+    background: #3c74db;
+    color: white;
+    font-size: 30px;
+    width:1676px;
 }
 .linkbox{
     float:left;
-    width: 200px;
-    margin:20px;
+    padding:60px;
     font-size:30px;
     background-color:rgb(211, 201, 59);
     min-height: 400px;
+    width:250px;
     flex-wrap:wrap;
+    
+}
+.centerbox{
+    float:left;
+    background-color: lightcoral;
+    padding:60px;
+    min-height: 400px;
+    width:1385px;
+    font-size:30px;
+    
 }
 .footer{
-    display:flex;
-    background-color: rgb(43, 76, 223);
-    align-content: space-between;
-    flex-wrap:wrap;
-    font-size:30px;
+  position: fixed;
+  padding: 50px;
+  font-size:30px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:cyan;
+  color: black;
+  text-align: center;
 }
