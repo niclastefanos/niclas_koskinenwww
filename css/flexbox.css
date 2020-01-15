@@ -5,7 +5,7 @@
     flex-wrap:wrap;
 }
 
-.flexContainer > div {
+.flexContainer > div, .flexcolumn > div{
     background-color: rgb(189, 189, 100);
     margin:10px;
     text-align:center;
@@ -13,4 +13,9 @@
     font-size:30px;
     width: fit-content;
 
+}
+.flexcolumn{
+    display: flex;
+    background-color: rgb(134, 123, 123);
+    flex-direction: column;
 }
