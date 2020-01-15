@@ -21,3 +21,11 @@ h1.warning, note{
     color: green;
     background-color: rgb(230, 213, 213);
 }
+#note1{
+    color:rgb(20, 24, 24)
+}
+.comment{
+    border: 4px solid #666;
+    padding: 5px;
+    background-color: rgb(201, 201, 136)
+}
