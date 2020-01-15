@@ -1,0 +1,23 @@
+.headerbox{
+    display:flex;
+    background-color: rgb(33, 211, 113);
+    align-content: space-between;
+    font-size:30px;
+    flex-wrap:wrap;
+}
+.linkbox{
+    float:left;
+    width: 200px;
+    margin:20px;
+    font-size:30px;
+    background-color:rgb(211, 201, 59);
+    min-height: 400px;
+    flex-wrap:wrap;
+}
+.footer{
+    display:flex;
+    background-color: rgb(33, 211, 113);
+    align-content: space-between;
+    flex-wrap:wrap;
+    font-size:30px;
+}
