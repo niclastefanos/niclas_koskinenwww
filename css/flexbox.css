@@ -1,5 +1,5 @@
 .flexContainer{
-    dispaly:flex;
+    display:flex;
     background-color: rgb(124, 151, 136);
     align-content: space-between;
     flex-wrap:wrap;
