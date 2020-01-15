@@ -19,3 +19,11 @@
     background-color: rgb(134, 123, 123);
     flex-direction: column;
 }
+
+.box{
+    float:left;
+    width: 200px;
+    margin:20px;
+    background-color:rgb(102, 172, 102);
+    min-height: 400px;
+}
