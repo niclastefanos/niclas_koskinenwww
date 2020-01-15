@@ -17,7 +17,7 @@ p{
 header {
     color:blue rgb(17,17,216);
 }
-h1.warning{
+h1.warning, note{
     color: green;
-    background-color: grey;
+    background-color: rgb(230, 213, 213);
 }
