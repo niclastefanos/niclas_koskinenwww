@@ -1,4 +1,16 @@
 .flexContainer{
     dispaly:flex;
-    background-color: rgb(124, 151, 136)
+    background-color: rgb(124, 151, 136);
+    align-content: space-between;
+    flex-wrap:wrap;
+}
+
+.flexContainer > div {
+    background-color: rgb(189, 189, 100);
+    margin:10px;
+    text-align:center;
+    line-height:50px;
+    font-size:30px;
+    width: fit-content;
+
 }
