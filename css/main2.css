@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(80, 140, 143);
+}
+.container{
+    background-color: darkseagreen;
+    max-width:960px;
+}
+.col-sm-3{
+    background-color: rgb(167, 160, 160);
+}
+.goldbg{
+    background-color: rgb(189, 180, 130);
+}
+.leftbox{
+    float:left;
+    background-color: grey;
+    padding:40px;
+    width:50%;
+}
+.rightbox{
+    float:left;
+    background-color: rgb(77, 72, 72);
+    padding:40px;
+    width:50%;
+}
