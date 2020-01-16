@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.container{
+    
+}
+.navbar .navbar-nav {
+    font-size: 25px;
+    font-weight: bold;
+  }
+.col-sm-9{
+    padding:40px;
+    color:white;
+}
+.col-sm-3{
+    padding:40px;
+    color: white;
+}
+.col-sm-8{
+    padding:40px;
+    color:white;
+    background-color: rgb(0, 116, 224);
+    font-size: 25px;
+    font-weight: bold;
+}
+.col-sm-4{
+    padding:50px;
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.col-sm-12{
+    padding:40px;
+    color:white;
+
+}
+
+  
